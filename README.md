@@ -1,5 +1,4 @@
-# my-profile
-<!DOCTYPE html>
+
 <html>
 
 	<head>
